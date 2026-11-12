@@ -2,8 +2,6 @@
 
 **[فارسی / Persian README](README_FA.md) | English**
 
-#### Video Demo: https://youtu.be/REPLACE_WITH_YOUR_VIDEO_ID
-
 #### Description
 
 NetGuard is a Python command-line tool created as a CS50P final project. It
